@@ -1,0 +1,12 @@
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.exe
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.deps.json
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.runtimeconfig.json
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.runtimeconfig.dev.json
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.dll
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\bin\Debug\netcoreapp3.1\LAB 3 on 4-21.pdb
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.dll
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.pdb
+C:\Users\Jesse\source\repos\LAB 3 on 4-21\LAB 3 on 4-21\obj\Debug\netcoreapp3.1\LAB 3 on 4-21.genruntimeconfig.cache
